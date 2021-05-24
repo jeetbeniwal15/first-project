@@ -1,0 +1,24 @@
+.page-wrapper {
+  left: 0;
+  margin-left: 230px;
+  padding-top: 60px;
+  position: relative;
+}
+
+.content {
+  padding: 30px;
+}
+
+.card {
+  border: 1px solid #ededed;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 20%);
+  margin-bottom: 30px;
+  font-size: 18px !important;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+}
+
+.card-title {
+  font-weight: 600;
+}

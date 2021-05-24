@@ -1,0 +1,41 @@
+.sidebar {
+  background-color: #34444c;
+  color: aliceblue;
+  border-right: 1px solid transparent;
+  bottom: 0;
+  left: 0;
+  margin-top: 0;
+  position: fixed;
+  top: 60px;
+  transition: all 0.2s ease-in-out 0s;
+  width: 230px;
+  z-index: 1001;
+  padding: 10px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 909px;
+}
+
+.sidebar-items {
+  font-size: 15px;
+}
+
+.sidebar-items li {
+  color: #ebecf1;
+  padding: 5px 15px;
+  white-space: nowrap;
+}
+
+.slimscrollbar {
+  background: rgb(204, 204, 204);
+  width: 7px;
+  position: absolute;
+  top: 0px;
+  opacity: 0.4;
+  display: none;
+  border-radius: 7px;
+  z-index: 99;
+  right: 1px;
+  height: 486.048px;
+}

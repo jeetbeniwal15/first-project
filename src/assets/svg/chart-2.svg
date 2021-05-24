@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="662" height="249" viewBox="0 0 662 249">
+  <g id="Group_655" data-name="Group 655" transform="translate(-1143 -516)">
+    <g id="Group_13" data-name="Group 13" transform="translate(812 2)">
+      <line id="Line_2" data-name="Line 2" y1="1" x2="625" transform="translate(355 521)" fill="none" stroke="#a9b3c0" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="639" transform="translate(354 576)" fill="none" stroke="#a9b3c0" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" x2="639" transform="translate(354 630)" fill="none" stroke="#a9b3c0" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" x2="639" transform="translate(354 684)" fill="none" stroke="#a9b3c0" stroke-width="1"/>
+      <line id="Line_6" data-name="Line 6" x2="638" transform="translate(355 738)" fill="none" stroke="#a9b3c0" stroke-width="1"/>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(816 2)">
+      <text id="_100" data-name="100" transform="translate(327 527)" fill="#34444c" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.055em"><tspan x="0" y="0">100</tspan></text>
+      <text id="_75" data-name="75" transform="translate(333 580)" fill="#34444c" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.055em"><tspan x="0" y="0">75</tspan></text>
+      <text id="_50" data-name="50" transform="translate(332 634)" fill="#34444c" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.055em"><tspan x="0" y="0">50</tspan></text>
+      <text id="_25" data-name="25" transform="translate(333 688)" fill="#34444c" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.055em"><tspan x="0" y="0">25</tspan></text>
+      <text id="_0" data-name="0" transform="translate(340 742)" fill="#34444c" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.055em"><tspan x="0" y="0">0</tspan></text>
+    </g>
+    <line id="Line_20" data-name="Line 20" x2="8" transform="translate(1165 524)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_21" data-name="Line 21" x2="8" transform="translate(1166 578)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_22" data-name="Line 22" x2="8" transform="translate(1166 632)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_23" data-name="Line 23" x2="8" transform="translate(1166 686)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_24" data-name="Line 24" x2="8" transform="translate(1166 740)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="_2015" data-name="2015" transform="translate(1174 759)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2015</tspan></text>
+    <text id="_2016" data-name="2016" transform="translate(1258 760)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2016</tspan></text>
+    <text id="_2017" data-name="2017" transform="translate(1359 761)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2017</tspan></text>
+    <text id="_2018" data-name="2018" transform="translate(1464 761)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2018</tspan></text>
+    <text id="_2019" data-name="2019" transform="translate(1560 759)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2019</tspan></text>
+    <text id="_2020" data-name="2020" transform="translate(1639 759)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2020</tspan></text>
+    <text id="_2021" data-name="2021" transform="translate(1758 759)" fill="#262626" font-size="12" font-family="Poppins-Regular, Poppins" letter-spacing="0.055em"><tspan x="0" y="0">2021</tspan></text>
+    <path id="Path_15" data-name="Path 15" d="M774.975-917.5l99.509,57.381s77.4,57.381,95.488,53.424c8.775-1.919,24.474-8.156,41.211-20.776,17.426-13.14,36.069-35.5,54.187-35.5,19.56,0,38.254,17.73,57.364,33.253,14.867,12.077,30.966,22.581,41.23,23.02,23.118.989,74.01-56.274,98.133-56.274,8.974,0,27.215,2.218,44.505,8.473,28.559,10.331,57.385,27.025,57.385,27.025" transform="translate(398.025 1460.5)" fill="none" stroke="#2bb8ba" stroke-width="3"/>
+    <path id="Path_16" data-name="Path 16" d="M870.22,334.638s63.453-57.037,89.833-52.759,58.463,54.185,89.833,52.759,62.741-53.472,93.4-52.759,52.759,55.611,86.981,52.759,75.307-44.644,91.339-52.759,90.466-50.62,90.466-50.62" transform="translate(318.352 314.957) rotate(-1)" fill="none" stroke="#0001ff" stroke-width="3"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="4.5" cy="4.5" r="4.5" transform="translate(1192 628)" fill="#0001ff"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="4.5" cy="4.5" r="4.5" transform="translate(1275 574)" fill="#0001ff"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="4.5" cy="4.5" r="4.5" transform="translate(1169 539)" fill="#2bb8ba"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="4.5" cy="4.5" r="4.5" transform="translate(1275 600)" fill="#2bb8ba"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="4.5" cy="4.5" r="4.5" transform="translate(1368 627)" fill="#0001ff"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="4.5" cy="4.5" r="4.5" transform="translate(1368 648)" fill="#2bb8ba"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="4.5" cy="4.5" r="4.5" transform="translate(1461 572)" fill="#0001ff"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="4.5" cy="4.5" r="4.5" transform="translate(1560 621)" fill="#0001ff"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="4.5" cy="4.5" r="4.5" transform="translate(1461 593)" fill="#2bb8ba"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="4.5" cy="4.5" r="4.5" transform="translate(1560 648)" fill="#2bb8ba"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="4.5" cy="4.5" r="4.5" transform="translate(1726 519)" fill="#0001ff"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="4.5" cy="4.5" r="4.5" transform="translate(1758 629)" fill="#2bb8ba"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="4.5" cy="4.5" r="4.5" transform="translate(1634 574)" fill="#0001ff"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="4.5" cy="4.5" r="4.5" transform="translate(1639 599)" fill="#2bb8ba"/>
+  </g>
+</svg>

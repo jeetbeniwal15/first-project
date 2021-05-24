@@ -1,0 +1,19 @@
+*AdminCard {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+}
+
+.card {
+  border: 1px solid #ededed;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 20%);
+  margin-bottom: 30px;
+}
+
+.circle {
+  width: 60px;
+  height: 60px;
+  background-color: rgba(0, 0, 255, 19%);
+  border-radius: 100%;
+  display: inline-block;
+}
